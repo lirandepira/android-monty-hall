@@ -8,7 +8,7 @@ https://en.wikipedia.org/wiki/Monty_Hall_problem
 ### Intro:
 - The First screen displayes three buttons, each representing a door,
 and another button which takes the user to the wikipedia page of the description (this is the only part where
-the knoweldge of the explicit intents is used).
+the knoweldge of the implicit intents is used).
 
 - The second screen asks the user if they they want to keep their choice or switch it.
 
